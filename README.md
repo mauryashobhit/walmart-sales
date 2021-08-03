@@ -1,7 +1,7 @@
 # walmart-sales-forecasting
 factors affecting the sales of the walmart store
 
-
+for python notebook :  https://drive.google.com/file/d/1QQLNjllfJrClEbmfl0cCn9nG7wW3u_sj/view?usp=sharing
 
 Conventional retail stores still play a prominent role in a world dominated by Ecommerce. Retail is the process of selling consumer goods or services to customers through multiple channels of distribution to earn a profit. From groceries to clothing to electronics, customers keep flooding the gates of retail stores to satisfy their needs. As time has passed, retailers have had to evolve in order to keep up with changes in demands and the ever-changing mindset of customers. One such retail industry juggernaut that has kept up with the demands of customers as well changed the face of the retail industry for the better is Walmart Inc.
 
