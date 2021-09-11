@@ -28,7 +28,12 @@ IsHoliday: Whether the week is a special holiday week
 Using the above given features, we have to predict the weekly sales of the store with given parameters.
 ![image](https://user-images.githubusercontent.com/62472111/132951726-7272391a-fc8b-44a4-86ef-c0b965fbe5e5.png)
 
+
 ![image](https://user-images.githubusercontent.com/62472111/132951795-29f2deec-cffd-4855-a518-e3671aceb0d5.png)
+
+
+![image](https://user-images.githubusercontent.com/62472111/132952280-f5fea8f1-13d2-4333-ba9b-f98ed84d9436.png)
+
 
 ![image](https://user-images.githubusercontent.com/62472111/127976309-7ffb2eb2-ad81-490a-997d-cec284af82bf.png)
 
@@ -38,7 +43,10 @@ Using the above given features, we have to predict the weekly sales of the store
 
 ![image](https://user-images.githubusercontent.com/62472111/127976378-05c209be-1ed5-4007-a83b-3a60007b99db.png)
 
+
 ![image](https://user-images.githubusercontent.com/62472111/127976408-3966caf0-1f45-432b-b36f-d784b4767de4.png)
+
+
 ![image](https://user-images.githubusercontent.com/62472111/127976430-2ea78372-1841-408f-a0ce-29c4c4d15379.png)
 
 
