@@ -26,6 +26,7 @@ Unemployment: Unemployment rate
 IsHoliday: Whether the week is a special holiday week
 
 Using the above given features, we have to predict the weekly sales of the store with given parameters.
+![image](https://user-images.githubusercontent.com/62472111/132951726-7272391a-fc8b-44a4-86ef-c0b965fbe5e5.png)
 
 
 ![image](https://user-images.githubusercontent.com/62472111/127976309-7ffb2eb2-ad81-490a-997d-cec284af82bf.png)
